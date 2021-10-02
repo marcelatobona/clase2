@@ -1,0 +1,35 @@
+main{
+    display:flex;
+    flex-wrap: wrap;
+}
+.cuadro1{
+    width: 400px;
+    height: 400px;
+    background-color: black
+}
+
+#cuadro2{
+    width: 400px;
+    height: 400px;
+    background-color: red
+}
+#cuadro3{
+    width: 400px;
+    height: 400px;
+    background-color: salmon;
+}
+#cuadro4{
+    width: 400px;
+    height: 400px;
+    background-color: slateblue;
+}
+#cuadro5{
+    width: 400px;
+    height: 400px;
+    background-color: springgreen;
+}
+#cuadro6{
+    width: 400px;
+    height: 400px;
+    background-color: violet;
+}
